@@ -14,3 +14,4 @@ if settings.DEBUG:
     urlpatterns += [
         path('', include(debug_toolbar.urls)), 
     ]
+# gd
